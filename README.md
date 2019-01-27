@@ -11,3 +11,5 @@ maplotlibを使ってUV-Visスペクトルを描画します。
 # 参考
 
 こちらのQiitaの記事に詳しい説明があります。
+
+https://qiita.com/yuto_ohno/items/ea619d5bf568116becf6
